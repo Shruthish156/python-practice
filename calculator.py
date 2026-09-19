@@ -13,18 +13,18 @@ while True:
     print("5.EXPONENTIAL")
 
     #SELECT THE OPERATION
-    choose=int(input("choose the number operation(1,2,3,4,5) :"))
+    choice=int(input("choose the number for operation(1,2,3,4,5) :"))
     #use match commands
-    match choose:
-        case choose if choose==1:
+    match choice:
+        case choice if choice==1:
             print(f"ADDITION :{num1+num2}")
-        case choose if choose==2:
+        case choice if choice==2:
             print(f"SUBSTRACTION :{num1-num2}")
-        case choose if choose==3:
+        case choice if choice==3:
             print(f"MULTIPLICATION :{num1*num2}")
-        case choose if choose==4:
+        case choice if choice==4:
             print(f"DIVISION : {num1/num2}")
-        case choose if choose==5:
+        case choice if choice==5:
             print(f"EXPONENTIAL : {num1**num2}")
         case _:
             print("invalid operation :")
