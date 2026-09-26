@@ -2,10 +2,6 @@
 #it is a collection of orderd elements
 #it is a muatble we can add ,modify etc ,allow duplicate elements
 #denoted as :[]
-from operator import add
-import re
-
-
 number=[1,25,36,7]    #number(label) is stored in stack and values are stored in stack
 print(type(number))
 print(len(number))
