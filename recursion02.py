@@ -23,5 +23,5 @@ print(real_values([2,[3,8],[3,[4,5,6,7]],[3,5,7,8,11]]))
 1.first we define the function and call li based on the arguments
 2.after it will enter or start execute the program
 3.enter loop check the condition and isinstance means -the given arguments is list or not
-check it print else part
+otherwise check it print else part
 """
