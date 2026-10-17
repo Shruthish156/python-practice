@@ -1,4 +1,4 @@
-#LOOPS CONCEPT
+#LOOPS CONCEPTs
 #Loops means repeatedly  execution of the  program untill the condition become false :
 #WHILE LOOP(condition based)
 num=2
