@@ -13,7 +13,7 @@ print(tuple(result))
 
 #sorted
 #it is buit in function in python 
-#it will sort the number of values (ascending or descending order) based on the condition
+#it will sort the number of values (ascending or descending order) based on the conditions
 #it will sort the numbers in given iterable number only
 num=[2,8,9,4,2,7]
 result=sorted(num,key=lambda x :x*2,reverse=True)
