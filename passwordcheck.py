@@ -1,4 +1,4 @@
-print("=========PASSWORD CHECKING==========")
+print("=========PASSWORD CHECKING===========")
 while True:
     print("INSTRUCTION")
     print("1. password should contain min 8 character!!")
