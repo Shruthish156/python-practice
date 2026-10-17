@@ -5,7 +5,7 @@ n=int(input("enter a number: "))
 for i in range(1,n):          #it allocate the rows and control the repitation
     for j in range(1,i+1):    #it is print the patterns
         print(j,end=" ")
-    print()                   #new line of each iteration
+    print()                   #new line of each iterations
 
 print()
 #print star pattern of triangle
