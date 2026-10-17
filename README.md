@@ -3,11 +3,11 @@
 A structured collection of Python programs, coding exercises, and hands-on practice projects focused on building strong programming fundamentals 
 and problem-solving skills.
 
-**📌 About This Repository**
+# 📌 About This Repository
 This repository documents my progress in learning Python through practical coding exercises. It includes daily practice, reusable functions, 
 mathematical problems, and fundamental programming concepts.
 
-**🚀 Topics Covered**
+# 🚀 Topics Covered
 
 🧩 Python Fundamentals
 
@@ -27,7 +27,7 @@ mathematical problems, and fundamental programming concepts.
 
 Data structures :(list,tuples,sets,dictionary)
 
-**🛠️ Technologies**
+# 🛠️ Technologies
 
 Python 🐍
 
@@ -35,7 +35,7 @@ Visual Studio Code 💻
 
 Git & GitHub 🌐
 
-🎯 Learning Objectives
+# 🎯 Learning Objectives
 
 Strengthen Python programming fundamentals.
 
