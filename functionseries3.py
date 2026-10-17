@@ -1,4 +1,4 @@
-#nested function
+#nested functions
 #a function is contain inside another function is called as nested function.
 
 #out side the function and define it
