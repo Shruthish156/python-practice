@@ -1,4 +1,4 @@
-#FUNCTION
+# FUNCTION
 #it denoted as use def
 #function means repited use of the block of code or reuse of the code
 #it will save the time and eforts
