@@ -1,4 +1,4 @@
-#factorial number
+# factorial number
 
 #define the function
 def factorial(n):
