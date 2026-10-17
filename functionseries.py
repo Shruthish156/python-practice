@@ -1,4 +1,4 @@
-#global and local variable 
+# global and local variable 
 #global variable : it is locate outside the function
 x=10
 #global variable 
@@ -13,7 +13,7 @@ x=13
 def value():
     x=12
     #local variable 
-    print(x)  #it print 13
+    print(x)  #it print 12
 value()
 print(x)      #it print 13 because it is global variable .outside use the print(inbuilt function)    
 
