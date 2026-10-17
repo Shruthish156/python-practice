@@ -1,4 +1,4 @@
-# LIST
+# LIST in python
 #it is a collection of orderd elements
 #it is a muatble we can add ,modify etc ,allow duplicate elements
 #denoted as :[]
