@@ -1,4 +1,4 @@
-#IF ELSE CONDITION 
+#IF ELSE CONDITIONs 
 while True:
     name=input("enter a boy name : ")
     age=20
