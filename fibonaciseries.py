@@ -1,4 +1,4 @@
-#fibonaci series
+# fibonaci series
 #it means the adding of the current values and before values it give after nxt fibonaci values.
 #0,1,1,2,3,5,8,13,21,34,55,------
 
