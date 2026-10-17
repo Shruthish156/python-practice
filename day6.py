@@ -1,4 +1,4 @@
-#dictionary creation in different types
+# dictionary creation in different types
 #type1.list tuple method
 num=[("shruthisha",20),("summu",17),("ramu",52)]
 student_age=dict(num)
