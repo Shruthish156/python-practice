@@ -1,4 +1,4 @@
-#variable arguments in function 
+# variable arguments in function 
 #*arg
 #it is use to passes the many arguments foe calculation or any in usually one parameter
 def number(*nums):
