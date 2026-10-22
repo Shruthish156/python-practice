@@ -1,6 +1,6 @@
 print("=======comphrensions=======")
 #list comphrension 
-#we write code logic use list within one line
+#we write code logic use list within one lines
 #it is reduce the line of code
 #smart,and efficient code
 #easy to remember, variable=[condition for item in iterable]==list compherension 
