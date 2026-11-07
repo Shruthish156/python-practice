@@ -25,7 +25,9 @@ mathematical problems, and fundamental programming concepts.
 
 📝 Python Comprehensions
 
-Data structures :(lists,tuples,sets,dictionary)
+🔢 NumPy 
+
+🗂️ Data Structures (Lists, Tuples, Sets, Dictionaries)
 
 # 🛠️ Technologies
 
