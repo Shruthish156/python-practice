@@ -3,7 +3,7 @@ print("=======comphrensions=======")
 #we write code logic use list within one lines
 #it is reduce the line of code
 #smart,and efficient code
-#easy to remember, variable=[condition for item in iterable]==list compherension 
+#easy to remember, variable=[condition for item in iterable]==list compherensions
 list1=[2,8,9,7,5,46,3]
 result=[x*x for x in list1]    #square of the each elements in list
 print(result)
