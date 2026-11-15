@@ -4,7 +4,7 @@ print("="*20)
 print("====welcome to the world of python learning for AI engineering======")
 print("hello world!!!")
 #python is a high level,small code with interpretd versatile language and it is a dynamically typed language
-#1.It has a rich library support
+#1.It has a rich library support language
 #2.small and efficient code
 #3.use for AIautomation,ML,data ,etc===
 
